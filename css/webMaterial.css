@@ -1,0 +1,13 @@
+body{
+	margin: auto;
+}
+head-web-material div{
+	height: 50px;
+	border-bottom: solid 1px #ccc;
+	box-shadow: 0px 2px 10px rgba(121,121,121,0.5);
+	text-align: center;
+}
+head-web-material div span{
+	padding-top: 10px;
+}
+
